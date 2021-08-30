@@ -1,24 +1,9 @@
-# vue-shop1
+下载到一个文件夹里，下载好之后，在文件目录打开cmd，输入npm install
+下载好node_modules之后
+就输入npm run serve
 
-## Project setup
-```
-npm install
-```
+跑完之后
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+打开网页输入localhost：xxxx就可以了
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+第一次打开，可能会因为网络问题，轮播图没加载出来，刷新一次就好了
